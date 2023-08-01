@@ -8,6 +8,11 @@ https://github.com/search?q=topic%3Atooling+org%3Avalantic-CEC-Deutschland-GmbH+
 ### PHP
 https://packagist.org/packages/valantic-cec/
 
+#### spryker-shop
+Yves features
+
+https://github.com/search?q=topic%3Aspryker-shop+org%3Avalantic-CEC-Deutschland-GmbH+fork%3Atrue&type=repositories
+
 #### spryker
 Feature module extensions
 
